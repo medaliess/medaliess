@@ -1,5 +1,5 @@
 
- <h1 align="center"> <img src="https://github.com/medaliess/medaliess/assets/135135121/4ffc1075-ab0c-4a25-bdd8-63761233a056" alt="GIF2" width="900" height="400">
+ <h1 align="center"> <img src="https://github.com/medaliess/medaliess/assets/135135121/4ffc1075-ab0c-4a25-bdd8-63761233a056" alt="GIF2" width="900" height="370">
 
 
 
