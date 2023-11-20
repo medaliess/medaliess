@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aliessabri123@gmail.com**
 
-- 📄 Know about my experiences [https://copper-vilhelmina-40.tiiny.site](https://copper-vilhelmina-40.tiiny.site)
+- 📄 Know about my experiences and skills [https://copper-vilhelmina-40.tiiny.site](https://copper-vilhelmina-40.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
