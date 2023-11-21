@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Glory+medium&pause=500&color=808080&center=true&width=435&lines=Artificial+Intelligence+Student;Interested%20in;Data+science;Machine+learning;Computer%20vision;AI%20in%20general%20:D" alt="Typing SVG" /></a>
-</p>
+</p> 
 
  <h1 align="center"> <img src="https://github.com/medaliess/medaliess/assets/135135121/4ffc1075-ab0c-4a25-bdd8-63761233a056" alt="GIF2" width="900" height="370">
 
