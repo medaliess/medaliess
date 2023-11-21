@@ -1,7 +1,5 @@
- <h1 align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=medaliess.medaliess" />
-
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Glory+medium&pause=500&color=808080&center=true&width=435&lines=Artificial+Intelligence+Student;Interested%20in;Data+science;Computer%20vision;AI%20in%20general%20:D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Glory+medium&pause=500&color=808080&center=true&width=435&lines=Artificial+Intelligence+Student;Interested%20in;Data+science;Machine+learning;Computer%20vision;AI%20in%20general%20:D" alt="Typing SVG" /></a>
 </p>
 
  <h1 align="center"> <img src="https://github.com/medaliess/medaliess/assets/135135121/4ffc1075-ab0c-4a25-bdd8-63761233a056" alt="GIF2" width="900" height="370">
@@ -22,9 +20,9 @@
  
  🔭 I’m currently looking for an internship for  **my final year project**
  
- 🌱 I’m currently learning **Spark, Reinforcement learning**
+ 👨🏻‍💻 I’m currently learning **Spark, Reinforcement learning**
 
- 📄 Know about my experiences and skills : [https://copper-vilhelmina-40.tiiny.site](https://copper-vilhelmina-40.tiiny.site)
+ 📄 Know about my experiences and skills : [Resume](https://copper-vilhelmina-40.tiiny.site)
 
  </div>
  
@@ -48,7 +46,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,r,c,pytorch,selenium,tensorflow,flask"/>
-    <img src="https://skillicons.dev/icons?i=docker,cassandra,mongodb,mysql"/>
+    <img src="https://skillicons.dev/icons?i=docker,cassandra,mongodb,mysql,git,github,latex"/>
     <img src="https://skillicons.dev/icons?i=photoshop,illustrator"/>
   
 </div>
