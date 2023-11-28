@@ -22,7 +22,7 @@
  
  👨🏻‍💻 I’m currently learning **Spark, Reinforcement learning**
 
- 💬 Talk to me about **Movies, Anime, Deep philosophical concepts, AI, Problem-Solving, and Math**
+ 💬 Talk to me about **Movies, Anime, AI, Problem-Solving, and Math**
 
  📄 Know about my experiences and skills : [Resume](https://copper-vilhelmina-40.tiiny.site)
 
